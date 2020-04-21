@@ -12,7 +12,7 @@
 * **Genre(s):** Visual novel
 * **Engine:** GameMaker Studio 2
 * **Source Code:** Available
-* **Links:** [itch.io](https://spncryn.itch.io/spring)
+* **Links:** [itch.io](https://spncryn.itch.io/spring), [Ludum Dare](https://ldjam.com/events/ludum-dare/46/first-love-late-spring)
 * **Price:** Pay what you want (itch.io)
 
 ## Description
@@ -20,6 +20,11 @@
 "First Love / Late Spring" is a brief meditation on mediocrity, fragility, and the quiet mounting frustration of trying to keep the conversation alive even though we all knew there was never anything there from the start.
 
 Or something like that.
+
+## History
+
+"First Love / Late Spring" was made for Ludum Dare in about 30 to 40 hours, as a collaboration between myself, Jacob Williams, and Nathan Haddock. It was built in GameMaker Studio 2. It was our first major project together. 
+
 
 ## Technology
 
@@ -35,5 +40,5 @@ The GMPL is Nate Haddock ([@lateralis](https://twitter.com/lateralismusic)), Jac
 
 ---
 
-*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 20 April 2020.*
+*Disclaimer: The information contained within this entry is accurate and relevant up to the date of the last recorded edit: 21 April 2020.*
 
