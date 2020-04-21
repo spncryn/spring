@@ -23,11 +23,15 @@ Or something like that.
 
 ## Technology
 
-"First Love / Late Spring" is produced in GameMaker Studio 2. 
+"First Love / Late Spring" was produced in GameMaker Studio 2. The [soundtrack](https://soundcloud.com/lateralis-music/baby-im-yours-breakbot-cover) was produced in Little Sound DJ.
 
 ## Licence
 
 "First Love / Late Spring" is an open-source project licensed under the [Unlicense](https://unlicense.org/). The source code is available in this repository. Please read the link above detailing the terms & conditions of the licence. 
+
+## About
+
+The GMPL is Nate Haddock ([@lateralis](https://twitter.com/lateralismusic)), Jacob Williams ([@ittas_gun](https://twitter.com/ittas_gun)), and Spencer Yan ([@spncryn](https://twitter.com/spncryn)).
 
 ---
 
