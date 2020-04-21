@@ -2,7 +2,7 @@
 
 # "First Love / Late Spring"
 
-**CURRENT STATUS: Released ** 
+**CURRENT STATUS: Released** 
 
 ## Overview
 
