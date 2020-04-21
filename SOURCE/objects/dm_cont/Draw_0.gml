@@ -1,0 +1,1 @@
+//draw_text(x+32, y+32, global.c_variant)

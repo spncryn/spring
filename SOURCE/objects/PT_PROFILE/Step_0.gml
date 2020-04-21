@@ -1,0 +1,2 @@
+/// @description Universal properties (or at least an attempt to enforce such)
+if collision_point(mouse_x, mouse_y, id, true, false) image_blend = make_colour_rgb(225, 225, 225) else image_blend = c_white

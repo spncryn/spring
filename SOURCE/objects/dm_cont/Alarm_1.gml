@@ -1,0 +1,1 @@
+global.scroll_up = 0;
